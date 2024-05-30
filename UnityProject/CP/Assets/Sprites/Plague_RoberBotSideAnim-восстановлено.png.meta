@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: dcc26341528a16346ab13c033903d406
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_11"
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 989
+        width: 165
+        height: 260
+      alignment: 9
+      pivot: {x: 0.39443174, y: 0.5786466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76e56c3b7d9e6479703dd8f94eac2a
+      internalID: 625673531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_15"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 642
+        width: 235
+        height: 274
+      alignment: 9
+      pivot: {x: 0.48492482, y: 0.5749895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b2c07a085a5f4ab9a7b90c55470b4
+      internalID: 2103961344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_10"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 987
+        width: 220
+        height: 302
+      alignment: 9
+      pivot: {x: 0.5413092, y: 0.48620728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700410e8ffd63bd4ca95130d0ecf6403
+      internalID: -284043784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_14"
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 653
+        width: 130
+        height: 261
+      alignment: 9
+      pivot: {x: 0.4628411, y: 0.54870605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d773ba5376ccdf1489921aaf6606043d
+      internalID: 839385920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_8"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1356
+        width: 308
+        height: 262
+      alignment: 9
+      pivot: {x: 0.6315411, y: 0.5491487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e36c98c30424c45bb61e874fa4ce14
+      internalID: -624261205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_7"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1364
+        width: 229
+        height: 262
+      alignment: 9
+      pivot: {x: 0.7194353, y: 0.5527446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e19aa1b49d4fd4e9e86b068a192f71
+      internalID: 605252136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_12"
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 986
+        width: 336
+        height: 255
+      alignment: 9
+      pivot: {x: 0.50676185, y: 0.5712785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc69fe533b7a1a24099cbe2d837d8acd
+      internalID: 1378631215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_3"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1661
+        width: 219
+        height: 255
+      alignment: 9
+      pivot: {x: 0.2998869, y: 0.57131636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76e69e7581bc8649aa049576b128b87
+      internalID: -1125915479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_18"
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 638
+        width: 214
+        height: 276
+      alignment: 9
+      pivot: {x: 0.56028247, y: 0.56608164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f6033d68ecb5640a88cb484827bc74
+      internalID: 1521152709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_2"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1663
+        width: 331
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5322915, y: 0.5645251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06544f90ac2acbf47a1fa464b6ad729f
+      internalID: -1873314518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_4"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 988
+        width: 256
+        height: 378
+      alignment: 9
+      pivot: {x: 0.47951686, y: 0.38131633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd86d461f327384aa1b014826475d6c
+      internalID: -582696322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_1"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1670
+        width: 250
+        height: 260
+      alignment: 9
+      pivot: {x: 0.770775, y: 0.557304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0460315d4f0952342a0ddb28cfbe36e2
+      internalID: 2047719474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_0"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1671
+        width: 176
+        height: 363
+      alignment: 9
+      pivot: {x: 0.6052364, y: 0.39339998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a67e466c2820be459c2d0e977f4a059
+      internalID: 1884528218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_5"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1366
+        width: 247
+        height: 255
+      alignment: 9
+      pivot: {x: 0.24055976, y: 0.5454485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f590b633cb8864e8cc7a07d0fa1c20
+      internalID: -1771088073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_6"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1359
+        width: 193
+        height: 260
+      alignment: 9
+      pivot: {x: 0.48615167, y: 0.56553066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67997d8eae1f4c349a0421bbcec464f6
+      internalID: -1082600937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_9"
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1356
+        width: 281
+        height: 262
+      alignment: 9
+      pivot: {x: 0.6909992, y: 0.5449349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a07c3b66157ff498c3d93ce104682a
+      internalID: -1122348116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_16"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 641
+        width: 144
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5766847, y: 0.55357766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5664d39f41b6a4e93a369a192eb5b4
+      internalID: -137625797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_21": 1924410092
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_6": -1082600937
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_0": 1884528218
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_8": -624261205
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_9": -1122348116
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_22": 807402240
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_18": 1521152709
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_17": 232453384
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_15": 2103961344
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_30": -741242244
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_3": -1125915479
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_26": -1513218814
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_28": 1357300736
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_10": -284043784
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_33": -862587867
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_34": -10144435
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_27": -1790350813
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_20": 762251705
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_35": 885524122
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_7": 605252136
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_5": -1771088073
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_25": -366548175
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_29": -1942299267
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_23": -639102132
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_39": 183793111
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_31": 1468381206
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_16": -137625797
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_19": -424171268
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_37": -1043997413
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_1": 2047719474
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_24": -1332364470
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_14": 839385920
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_36": -545679596
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_32": -164329367
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_2": -1873314518
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_11": 625673531
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_38": 367931240
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_13": 1675748477
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_4": -582696322
+      "Plague_RoberBotSideAnim-\u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043E_12": 1378631215
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

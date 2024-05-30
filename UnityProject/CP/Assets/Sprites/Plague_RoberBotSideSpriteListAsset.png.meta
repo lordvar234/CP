@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: b97dc8ab524337c44b7365158cba4e77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1662
+        width: 130
+        height: 261
+      alignment: 9
+      pivot: {x: 0.47063926, y: 0.5493557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4d702ab701284d80c50bc6ea4b384
+      internalID: -1536056819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1671
+        width: 176
+        height: 363
+      alignment: 9
+      pivot: {x: 0.60196775, y: 0.39991647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12787c09715cfa643b87339b23086ce5
+      internalID: -70486785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_3
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1670
+        width: 291
+        height: 260
+      alignment: 9
+      pivot: {x: 0.6594425, y: 0.55892336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8b4abafc30478488e0d185e63f5916
+      internalID: 570574509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_4
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1669
+        width: 216
+        height: 255
+      alignment: 9
+      pivot: {x: 0.2953282, y: 0.5669448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa4c82b16680f44a914c6f9fa9a44af
+      internalID: -1561620229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1257
+        width: 248
+        height: 261
+      alignment: 9
+      pivot: {x: 0.23701859, y: 0.5553432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1705c64895432744e8f1382463aebef3
+      internalID: -2035026460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1256
+        width: 185
+        height: 261
+      alignment: 9
+      pivot: {x: 0.46687573, y: 0.5586976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82935febf3184a42b1b56c1808ab1c9
+      internalID: -1374455261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1261
+        width: 212
+        height: 262
+      alignment: 9
+      pivot: {x: 0.69821054, y: 0.5501201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c0dd4fa99c02429f166cd528acb41
+      internalID: -821336058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_RoberBotSideSpriteListAsset_14
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1257
+        width: 281
+        height: 262
+      alignment: 9
+      pivot: {x: 0.6931552, y: 0.54677856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9167d6a107a4954bbb692b3f13ad450
+      internalID: -1095740925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plague_RoberBotSideSpriteListAsset_13: -821336058
+      Plague_RoberBotSideSpriteListAsset_0: 1967980795
+      Plague_RoberBotSideSpriteListAsset_12: -1374455261
+      Plague_RoberBotSideSpriteListAsset_1: -1536056819
+      Plague_RoberBotSideSpriteListAsset_10: 1371939809
+      Plague_RoberBotSideSpriteListAsset_9: 1283862537
+      Plague_RoberBotSideSpriteListAsset_7: 2050202225
+      Plague_RoberBotSideSpriteListAsset_14: -1095740925
+      Plague_RoberBotSideSpriteListAsset_5: 649721243
+      Plague_RoberBotSideSpriteListAsset_6: -776253345
+      Plague_RoberBotSideSpriteListAsset_2: -70486785
+      Plague_RoberBotSideSpriteListAsset_11: -2035026460
+      Plague_RoberBotSideSpriteListAsset_3: 570574509
+      Plague_RoberBotSideSpriteListAsset_8: -2097456131
+      Plague_RoberBotSideSpriteListAsset_4: -1561620229
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

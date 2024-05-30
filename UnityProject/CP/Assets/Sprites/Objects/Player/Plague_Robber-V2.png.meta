@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: a143b406b2e3e89469e10b1cb16e5c83
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plague_Robber-V2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 200
+        height: 259
+      alignment: 9
+      pivot: {x: 0.34240437, y: 0.6580563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e5e65ec5e953459614742e8e43302
+      internalID: -1437682898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 253
+        width: 200
+        height: 300
+      alignment: 9
+      pivot: {x: 0.30209392, y: 0.69826275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41161551a42ac714db58da2ab0f4bfab
+      internalID: -254505916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 249
+        width: 200
+        height: 300
+      alignment: 9
+      pivot: {x: 0.29805526, y: 0.70518047}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660b673b311defe45befe9c9d9dda47d
+      internalID: 96082593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 231
+        width: 200
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3712674, y: 0.7064203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487db379e7a1c6f42b28ddde0620b8ce
+      internalID: 1893201488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 231
+        width: 200
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4020416, y: 0.70487297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5827bdf24bf414e828c9a41c489826
+      internalID: -1041821748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 230
+        width: 200
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3567749, y: 0.7089337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6de8444802091448cb2b912ac4a439
+      internalID: 1921935581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_7
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 239
+        width: 192
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3983364, y: 0.7050214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd285e100063f9246a23166f8091d3b9
+      internalID: 560608474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plague_Robber-V2_8
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 241
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755de171657b8c5488cbdfacb6cefdb2
+      internalID: 837364150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plague_Robber-V2_5: -1041821748
+      Plague_Robber-V2_4: -1283049574
+      Plague_Robber-V2_9: -272768566
+      Plague_Robber-V2_16: 1231675959
+      Plague_Robber-V2_1: -254505916
+      Plague_Robber-V2_8: 837364150
+      Plague_Robber-V2_3: 1893201488
+      Plague_Robber-V2_0: -1437682898
+      Plague_Robber-V2_6: 1921935581
+      Plague_Robber-V2_11: 1335078720
+      Plague_Robber-V2_10: -112900625
+      Plague_Robber-V2_14: 1945944697
+      Plague_Robber-V2_12: 1803071362
+      Plague_Robber-V2_13: -2094789912
+      Plague_Robber-V2_15: -1411217856
+      Plague_Robber-V2_7: 560608474
+      Plague_Robber-V2_2: 96082593
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
